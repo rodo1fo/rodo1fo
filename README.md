@@ -3,7 +3,7 @@
 
 - 👨‍💻 fullstack engineer
 - ☕  more than 10 years working with backend and frontend tecnologies
-- 🌱 Game developer for hobby
+- 🌱 Game developer for hobby (godot and unity)
 
 ##
 <div align ="center">
